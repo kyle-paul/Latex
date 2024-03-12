@@ -1,0 +1,375 @@
+PWD d:\Documents\GitHub\Latex\Volume Computation
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Documents\GitHub\Latex\Volume Computation\main.tex
+OUTPUT main.log
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\tools\multicol.sty
+INPUT D:\Programs\MiKTeX\tex\latex\tools\multicol.sty
+INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT D:\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT D:\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+OUTPUT main.pdf
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\Figures\Integral Surface Function.png
+INPUT .\Figures\Integral Surface Function.png
+INPUT .\Figures\Integral Surface Function.png
+INPUT .\Figures\Integral Surface Function.png
+INPUT .\Figures\Integral Surface Function.png
+INPUT .\Figures\Integral Surface Function.png
+INPUT .\Figures\Integral Surface Function.png
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT .\Figures\Exclusion.png
+INPUT .\Figures\Exclusion.png
+INPUT .\Figures\Exclusion.png
+INPUT .\Figures\Exclusion.png
+INPUT .\Figures\Exclusion.png
+INPUT .\Figures\Exclusion.png
+INPUT .\Figures\Exclusion.png
+INPUT .\Figures\Triple Integral.png
+INPUT .\Figures\Triple Integral.png
+INPUT .\Figures\Triple Integral.png
+INPUT .\Figures\Triple Integral.png
+INPUT .\Figures\Triple Integral.png
+INPUT .\Figures\Triple Integral.png
+INPUT .\Figures\Triple Integral.png
+INPUT .\Figures\Binary Vertices.png
+INPUT .\Figures\Binary Vertices.png
+INPUT .\Figures\Binary Vertices.png
+INPUT .\Figures\Binary Vertices.png
+INPUT .\Figures\Binary Vertices.png
+INPUT .\Figures\Binary Vertices.png
+INPUT .\Figures\Binary Vertices.png
+INPUT .\Figures\case 1.png
+INPUT .\Figures\case 1.png
+INPUT .\Figures\case 1.png
+INPUT .\Figures\case 1.png
+INPUT .\Figures\case 1.png
+INPUT .\Figures\case 1.png
+INPUT .\Figures\case 1.png
+INPUT .\Figures\case 16.png
+INPUT .\Figures\case 16.png
+INPUT .\Figures\case 16.png
+INPUT .\Figures\case 16.png
+INPUT .\Figures\case 16.png
+INPUT .\Figures\case 16.png
+INPUT .\Figures\case 16.png
+INPUT .\Figures\case 2.png
+INPUT .\Figures\case 2.png
+INPUT .\Figures\case 2.png
+INPUT .\Figures\case 2.png
+INPUT .\Figures\case 2.png
+INPUT .\Figures\case 2.png
+INPUT .\Figures\case 2.png
+INPUT .\Figures\case 17.png
+INPUT .\Figures\case 17.png
+INPUT .\Figures\case 17.png
+INPUT .\Figures\case 17.png
+INPUT .\Figures\case 17.png
+INPUT .\Figures\case 17.png
+INPUT .\Figures\case 17.png
+INPUT .\Figures\case 3.png
+INPUT .\Figures\case 3.png
+INPUT .\Figures\case 3.png
+INPUT .\Figures\case 3.png
+INPUT .\Figures\case 3.png
+INPUT .\Figures\case 3.png
+INPUT .\Figures\case 3.png
+INPUT .\Figures\case 18.png
+INPUT .\Figures\case 18.png
+INPUT .\Figures\case 18.png
+INPUT .\Figures\case 18.png
+INPUT .\Figures\case 18.png
+INPUT .\Figures\case 18.png
+INPUT .\Figures\case 18.png
+INPUT .\Figures\case 4.png
+INPUT .\Figures\case 4.png
+INPUT .\Figures\case 4.png
+INPUT .\Figures\case 4.png
+INPUT .\Figures\case 4.png
+INPUT .\Figures\case 4.png
+INPUT .\Figures\case 4.png
+INPUT .\Figures\case 19.png
+INPUT .\Figures\case 19.png
+INPUT .\Figures\case 19.png
+INPUT .\Figures\case 19.png
+INPUT .\Figures\case 19.png
+INPUT .\Figures\case 19.png
+INPUT .\Figures\case 19.png
+INPUT .\Figures\case 5.png
+INPUT .\Figures\case 5.png
+INPUT .\Figures\case 5.png
+INPUT .\Figures\case 5.png
+INPUT .\Figures\case 5.png
+INPUT .\Figures\case 5.png
+INPUT .\Figures\case 5.png
+INPUT .\Figures\case 20.png
+INPUT .\Figures\case 20.png
+INPUT .\Figures\case 20.png
+INPUT .\Figures\case 20.png
+INPUT .\Figures\case 20.png
+INPUT .\Figures\case 20.png
+INPUT .\Figures\case 20.png
+INPUT .\Figures\case 6.png
+INPUT .\Figures\case 6.png
+INPUT .\Figures\case 6.png
+INPUT .\Figures\case 6.png
+INPUT .\Figures\case 6.png
+INPUT .\Figures\case 6.png
+INPUT .\Figures\case 6.png
+INPUT .\Figures\case 21.png
+INPUT .\Figures\case 21.png
+INPUT .\Figures\case 21.png
+INPUT .\Figures\case 21.png
+INPUT .\Figures\case 21.png
+INPUT .\Figures\case 21.png
+INPUT .\Figures\case 21.png
+INPUT .\Figures\case 7.png
+INPUT .\Figures\case 7.png
+INPUT .\Figures\case 7.png
+INPUT .\Figures\case 7.png
+INPUT .\Figures\case 7.png
+INPUT .\Figures\case 7.png
+INPUT .\Figures\case 7.png
+INPUT .\Figures\case 22.png
+INPUT .\Figures\case 22.png
+INPUT .\Figures\case 22.png
+INPUT .\Figures\case 22.png
+INPUT .\Figures\case 22.png
+INPUT .\Figures\case 22.png
+INPUT .\Figures\case 22.png
+INPUT .\Figures\case 8.png
+INPUT .\Figures\case 8.png
+INPUT .\Figures\case 8.png
+INPUT .\Figures\case 8.png
+INPUT .\Figures\case 8.png
+INPUT .\Figures\case 8.png
+INPUT .\Figures\case 8.png
+INPUT .\Figures\case 23.png
+INPUT .\Figures\case 23.png
+INPUT .\Figures\case 23.png
+INPUT .\Figures\case 23.png
+INPUT .\Figures\case 23.png
+INPUT .\Figures\case 23.png
+INPUT .\Figures\case 23.png
+INPUT .\Figures\case 9.png
+INPUT .\Figures\case 9.png
+INPUT .\Figures\case 9.png
+INPUT .\Figures\case 9.png
+INPUT .\Figures\case 9.png
+INPUT .\Figures\case 9.png
+INPUT .\Figures\case 9.png
+INPUT .\Figures\case 24.png
+INPUT .\Figures\case 24.png
+INPUT .\Figures\case 24.png
+INPUT .\Figures\case 24.png
+INPUT .\Figures\case 24.png
+INPUT .\Figures\case 24.png
+INPUT .\Figures\case 24.png
+INPUT .\Figures\case 10.png
+INPUT .\Figures\case 10.png
+INPUT .\Figures\case 10.png
+INPUT .\Figures\case 10.png
+INPUT .\Figures\case 10.png
+INPUT .\Figures\case 10.png
+INPUT .\Figures\case 10.png
+INPUT .\Figures\case 25.png
+INPUT .\Figures\case 25.png
+INPUT .\Figures\case 25.png
+INPUT .\Figures\case 25.png
+INPUT .\Figures\case 25.png
+INPUT .\Figures\case 25.png
+INPUT .\Figures\case 25.png
+INPUT .\Figures\case 11.png
+INPUT .\Figures\case 11.png
+INPUT .\Figures\case 11.png
+INPUT .\Figures\case 11.png
+INPUT .\Figures\case 11.png
+INPUT .\Figures\case 11.png
+INPUT .\Figures\case 11.png
+INPUT .\Figures\case 26.png
+INPUT .\Figures\case 26.png
+INPUT .\Figures\case 26.png
+INPUT .\Figures\case 26.png
+INPUT .\Figures\case 26.png
+INPUT .\Figures\case 26.png
+INPUT .\Figures\case 26.png
+INPUT .\Figures\case 12.png
+INPUT .\Figures\case 12.png
+INPUT .\Figures\case 12.png
+INPUT .\Figures\case 12.png
+INPUT .\Figures\case 12.png
+INPUT .\Figures\case 12.png
+INPUT .\Figures\case 12.png
+INPUT .\Figures\case 27.png
+INPUT .\Figures\case 27.png
+INPUT .\Figures\case 27.png
+INPUT .\Figures\case 27.png
+INPUT .\Figures\case 27.png
+INPUT .\Figures\case 27.png
+INPUT .\Figures\case 27.png
+INPUT .\Figures\case 13.png
+INPUT .\Figures\case 13.png
+INPUT .\Figures\case 13.png
+INPUT .\Figures\case 13.png
+INPUT .\Figures\case 13.png
+INPUT .\Figures\case 13.png
+INPUT .\Figures\case 13.png
+INPUT .\Figures\case 28.png
+INPUT .\Figures\case 28.png
+INPUT .\Figures\case 28.png
+INPUT .\Figures\case 28.png
+INPUT .\Figures\case 28.png
+INPUT .\Figures\case 28.png
+INPUT .\Figures\case 28.png
+INPUT .\Figures\case 14.png
+INPUT .\Figures\case 14.png
+INPUT .\Figures\case 14.png
+INPUT .\Figures\case 14.png
+INPUT .\Figures\case 14.png
+INPUT .\Figures\case 14.png
+INPUT .\Figures\case 14.png
+INPUT .\Figures\case 29.png
+INPUT .\Figures\case 29.png
+INPUT .\Figures\case 29.png
+INPUT .\Figures\case 29.png
+INPUT .\Figures\case 29.png
+INPUT .\Figures\case 29.png
+INPUT .\Figures\case 29.png
+INPUT .\Figures\case 15.png
+INPUT .\Figures\case 15.png
+INPUT .\Figures\case 15.png
+INPUT .\Figures\case 15.png
+INPUT .\Figures\case 15.png
+INPUT .\Figures\case 15.png
+INPUT .\Figures\case 15.png
+INPUT .\Figures\case 30.png
+INPUT .\Figures\case 30.png
+INPUT .\Figures\case 30.png
+INPUT .\Figures\case 30.png
+INPUT .\Figures\case 30.png
+INPUT .\Figures\case 30.png
+INPUT .\Figures\case 30.png
+INPUT .\Figures\Fenwick Tree.png
+INPUT .\Figures\Fenwick Tree.png
+INPUT .\Figures\Fenwick Tree.png
+INPUT .\Figures\Fenwick Tree.png
+INPUT .\Figures\Fenwick Tree.png
+INPUT .\Figures\Fenwick Tree.png
+INPUT .\Figures\Fenwick Tree.png
+INPUT .\Figures\3D BIT.png
+INPUT .\Figures\3D BIT.png
+INPUT .\Figures\3D BIT.png
+INPUT .\Figures\3D BIT.png
+INPUT .\Figures\3D BIT.png
+INPUT .\Figures\3D BIT.png
+INPUT .\Figures\3D BIT.png
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT main.bbl
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT main.aux
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
