@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1710188137.43599 "main.aux" "main.bbl" "main" 1710188146.62538 0
-  "./references.bib" 1710175510 2324 310eba313ee2040286fee378f40229dd ""
+["bibtex main"] 1710317064.09139 "main.aux" "main.bbl" "main" 1710317085.29196 0
+  "./references.bib" 1710316344 2714 859fc3e8af38a9d46ea9593e598b7a01 ""
   "D:/Programs/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1710188145 2685 427bcf1c46239e006a5da8d49152f3f8 "pdflatex"
+  "main.aux" 1710317083 2660 0c7203d661d02688a985b83958dd09b8 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1710188137.75413 "d:/Documents/GitHub/Latex/Volume Computation/main.tex" "main.pdf" "main" 1710188146.62597 0
+["pdflatex"] 1710317064.51306 "d:/Documents/GitHub/Latex/Volume Computation/main.tex" "main.pdf" "main" 1710317085.29332 0
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1710173198 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1709860446 24219692 727a93b4d15c97d509dbf8f8ffdad77a ""
   "D:/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -40,7 +40,6 @@
   "D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1247596667 32734 69e00a6b65cedb993666e42eedb3d48f ""
-  "D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
@@ -71,6 +70,7 @@
   "Figures/3D BIT.png" 1709976130 555088 3717080f477fa502d8ebccc6853316ac ""
   "Figures/Binary Vertices.png" 1710172944 266918 26c3b04e39469f22323cd6f0c7497f51 ""
   "Figures/Exclusion.png" 1710172960 236602 32cf62b6d824eed9851f93e9f8c4e7a0 ""
+  "Figures/Experiment.png" 1710311792 666243 3b32ca8ac426b1b9c836face70616bfc ""
   "Figures/Fenwick Tree.png" 1710172962 57367 31ba88b6562703cec2a07f68d36c564d ""
   "Figures/Integral Surface Function.png" 1710172964 110370 f4d613e5b60d08288ad41e7e137b1b4f ""
   "Figures/Triple Integral.png" 1710172966 71046 70f41a1220fd68946e7617d04d45d9d6 ""
@@ -104,10 +104,10 @@
   "Figures/case 7.png" 1709953538 40664 1b80c65d504d56f56b0d656a8bc970ed ""
   "Figures/case 8.png" 1709953555 54410 b014307ba0d2ab00f43b4aba4d468ea9 ""
   "Figures/case 9.png" 1709953580 28847 b68cc56c4266cebf328feee87f4469bb ""
-  "d:/Documents/GitHub/Latex/Volume Computation/main.tex" 1710188128 24237 20f5fb791802eb516c3431aeff0f35ce ""
-  "main.aux" 1710188145 2685 427bcf1c46239e006a5da8d49152f3f8 "pdflatex"
-  "main.bbl" 1710188137 2285 77480c50026f92625988af2a32ad7f9e "bibtex main"
-  "main.tex" 1710188128 24237 20f5fb791802eb516c3431aeff0f35ce ""
+  "d:/Documents/GitHub/Latex/Volume Computation/main.tex" 1710317049 24960 6a158a2918d46c4add37091e2c74d65b ""
+  "main.aux" 1710317083 2660 0c7203d661d02688a985b83958dd09b8 "pdflatex"
+  "main.bbl" 1710317064 2431 c09f1eebffaeb81d3b49f219ca377e5f "bibtex main"
+  "main.tex" 1710317049 24960 6a158a2918d46c4add37091e2c74d65b ""
   (generated)
   "main.aux"
   "main.log"

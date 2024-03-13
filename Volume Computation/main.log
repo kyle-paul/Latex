@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.8)  12 MAR 2024 03:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.8)  13 MAR 2024 15:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -289,7 +289,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<Figures/Integral Surface Function.png, id=13, 803.8833pt x 237.5274pt>
+<Figures/Integral Surface Function.png, id=10, 803.8833pt x 237.5274pt>
 File: Figures/Integral Surface Function.png Graphic file (type png)
 <use Figures/Integral Surface Function.png>
 Package pdftex.def Info: Figures/Integral Surface Function.png  used on input line 55.
@@ -309,7 +309,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-<Figures/Exclusion.png, id=15, 1317.723pt x 534.5571pt>
+<Figures/Exclusion.png, id=12, 1317.723pt x 534.5571pt>
 File: Figures/Exclusion.png Graphic file (type png)
 <use Figures/Exclusion.png>
 Package pdftex.def Info: Figures/Exclusion.png  used on input line 82.
@@ -325,7 +325,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--84
  []
 
 [2 <./Figures/Integral Surface Function.png> <./Figures/Exclusion.png>]
-<Figures/Triple Integral.png, id=27, 1226.181pt x 568.2831pt>
+<Figures/Triple Integral.png, id=26, 1226.181pt x 568.2831pt>
 File: Figures/Triple Integral.png Graphic file (type png)
 <use Figures/Triple Integral.png>
 Package pdftex.def Info: Figures/Triple Integral.png  used on input line 88.
@@ -345,7 +345,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
-<Figures/Binary Vertices.png, id=28, 1413.1194pt x 419.6478pt>
+<Figures/Binary Vertices.png, id=27, 1413.1194pt x 419.6478pt>
 File: Figures/Binary Vertices.png Graphic file (type png)
 <use Figures/Binary Vertices.png>
 Package pdftex.def Info: Figures/Binary Vertices.png  used on input line 102.
@@ -365,156 +365,157 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--112
 \OT1/cmr/m/n/10.95 For ex-am-ple, given 4 points $\OML/cmm/m/it/10.95 A\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x[]; y[]; z[]\OT1/cmr/m/n/10.95 )$,
  []
 
+[3 <./Figures/Triple Integral.png> <./Figures/Binary Vertices.png>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 116.
 
-<Figures/case 1.png, id=29, 290.2845pt x 287.8755pt>
+<Figures/case 1.png, id=33, 290.2845pt x 287.8755pt>
 File: Figures/case 1.png Graphic file (type png)
 <use Figures/case 1.png>
 Package pdftex.def Info: Figures/case 1.png  used on input line 121.
 (pdftex.def)             Requested size: 28.45274pt x 28.21379pt.
-<Figures/case 16.png, id=30, 289.08pt x 287.8755pt>
+<Figures/case 16.png, id=34, 289.08pt x 287.8755pt>
 File: Figures/case 16.png Graphic file (type png)
 <use Figures/case 16.png>
 Package pdftex.def Info: Figures/case 16.png  used on input line 121.
 (pdftex.def)             Requested size: 28.45274pt x 28.3324pt.
-<Figures/case 2.png, id=31, 285.4665pt x 284.9847pt>
+<Figures/case 2.png, id=35, 285.4665pt x 284.9847pt>
 File: Figures/case 2.png Graphic file (type png)
 <use Figures/case 2.png>
 Package pdftex.def Info: Figures/case 2.png  used on input line 123.
 (pdftex.def)             Requested size: 28.45274pt x 28.40446pt.
-<Figures/case 17.png, id=32, 289.08pt x 287.8755pt>
+<Figures/case 17.png, id=36, 289.08pt x 287.8755pt>
 File: Figures/case 17.png Graphic file (type png)
 <use Figures/case 17.png>
 Package pdftex.def Info: Figures/case 17.png  used on input line 123.
 (pdftex.def)             Requested size: 28.45274pt x 28.3324pt.
-<Figures/case 3.png, id=33, 284.5029pt x 284.5029pt>
+<Figures/case 3.png, id=37, 284.5029pt x 284.5029pt>
 File: Figures/case 3.png Graphic file (type png)
 <use Figures/case 3.png>
 Package pdftex.def Info: Figures/case 3.png  used on input line 125.
 (pdftex.def)             Requested size: 28.45274pt x 28.45195pt.
-<Figures/case 18.png, id=34, 288.3573pt x 284.262pt>
+<Figures/case 18.png, id=38, 288.3573pt x 284.262pt>
 File: Figures/case 18.png Graphic file (type png)
 <use Figures/case 18.png>
 Package pdftex.def Info: Figures/case 18.png  used on input line 125.
 (pdftex.def)             Requested size: 28.45274pt x 28.04616pt.
-<Figures/case 4.png, id=35, 279.2031pt x 279.9258pt>
+<Figures/case 4.png, id=39, 279.2031pt x 279.9258pt>
 File: Figures/case 4.png Graphic file (type png)
 <use Figures/case 4.png>
 Package pdftex.def Info: Figures/case 4.png  used on input line 127.
 (pdftex.def)             Requested size: 28.45274pt x 28.52385pt.
-<Figures/case 19.png, id=36, 291.0072pt x 289.08pt>
+<Figures/case 19.png, id=40, 291.0072pt x 289.08pt>
 File: Figures/case 19.png Graphic file (type png)
 <use Figures/case 19.png>
 Package pdftex.def Info: Figures/case 19.png  used on input line 127.
 (pdftex.def)             Requested size: 28.45274pt x 28.26126pt.
-<Figures/case 5.png, id=37, 289.5618pt x 290.7663pt>
+<Figures/case 5.png, id=41, 289.5618pt x 290.7663pt>
 File: Figures/case 5.png Graphic file (type png)
 <use Figures/case 5.png>
 Package pdftex.def Info: Figures/case 5.png  used on input line 129.
 (pdftex.def)             Requested size: 28.45274pt x 28.5681pt.
-<Figures/case 20.png, id=38, 289.8027pt x 287.8755pt>
+<Figures/case 20.png, id=42, 289.8027pt x 287.8755pt>
 File: Figures/case 20.png Graphic file (type png)
 <use Figures/case 20.png>
 Package pdftex.def Info: Figures/case 20.png  used on input line 129.
 (pdftex.def)             Requested size: 28.45274pt x 28.26212pt.
-<Figures/case 6.png, id=39, 284.262pt x 284.9847pt>
+<Figures/case 6.png, id=43, 284.262pt x 284.9847pt>
 File: Figures/case 6.png Graphic file (type png)
 <use Figures/case 6.png>
 Package pdftex.def Info: Figures/case 6.png  used on input line 131.
 (pdftex.def)             Requested size: 28.45274pt x 28.52188pt.
-<Figures/case 21.png, id=40, 290.0436pt x 289.8027pt>
+<Figures/case 21.png, id=44, 290.0436pt x 289.8027pt>
 File: Figures/case 21.png Graphic file (type png)
 <use Figures/case 21.png>
 Package pdftex.def Info: Figures/case 21.png  used on input line 131.
 (pdftex.def)             Requested size: 28.45274pt x 28.4292pt.
-<Figures/case 7.png, id=41, 289.8027pt x 290.2845pt>
+<Figures/case 7.png, id=45, 289.8027pt x 290.2845pt>
 File: Figures/case 7.png Graphic file (type png)
 <use Figures/case 7.png>
 Package pdftex.def Info: Figures/case 7.png  used on input line 133.
 (pdftex.def)             Requested size: 28.45274pt x 28.49861pt.
-<Figures/case 22.png, id=42, 288.3573pt x 285.7074pt>
+<Figures/case 22.png, id=46, 288.3573pt x 285.7074pt>
 File: Figures/case 22.png Graphic file (type png)
 <use Figures/case 22.png>
 Package pdftex.def Info: Figures/case 22.png  used on input line 133.
 (pdftex.def)             Requested size: 28.45274pt x 28.18877pt.
-<Figures/case 8.png, id=43, 288.8391pt x 289.8027pt>
+<Figures/case 8.png, id=47, 288.8391pt x 289.8027pt>
 File: Figures/case 8.png Graphic file (type png)
 <use Figures/case 8.png>
 Package pdftex.def Info: Figures/case 8.png  used on input line 135.
 (pdftex.def)             Requested size: 28.45274pt x 28.54417pt.
-<Figures/case 23.png, id=44, 290.7663pt x 289.3209pt>
+<Figures/case 23.png, id=48, 290.7663pt x 289.3209pt>
 File: Figures/case 23.png Graphic file (type png)
 <use Figures/case 23.png>
 Package pdftex.def Info: Figures/case 23.png  used on input line 135.
 (pdftex.def)             Requested size: 28.45274pt x 28.31131pt.
-<Figures/case 9.png, id=45, 289.08pt x 284.262pt>
+<Figures/case 9.png, id=49, 289.08pt x 284.262pt>
 File: Figures/case 9.png Graphic file (type png)
 <use Figures/case 9.png>
 Package pdftex.def Info: Figures/case 9.png  used on input line 137.
 (pdftex.def)             Requested size: 28.45274pt x 27.97676pt.
-<Figures/case 24.png, id=46, 289.08pt x 284.262pt>
+<Figures/case 24.png, id=50, 289.08pt x 284.262pt>
 File: Figures/case 24.png Graphic file (type png)
 <use Figures/case 24.png>
 Package pdftex.def Info: Figures/case 24.png  used on input line 137.
 (pdftex.def)             Requested size: 28.45274pt x 27.97676pt.
-<Figures/case 10.png, id=47, 288.3573pt x 287.8755pt>
+<Figures/case 10.png, id=51, 288.3573pt x 287.8755pt>
 File: Figures/case 10.png Graphic file (type png)
 <use Figures/case 10.png>
 Package pdftex.def Info: Figures/case 10.png  used on input line 139.
 (pdftex.def)             Requested size: 28.45274pt x 28.40268pt.
-<Figures/case 25.png, id=48, 288.1164pt x 288.5982pt>
+<Figures/case 25.png, id=52, 288.1164pt x 288.5982pt>
 File: Figures/case 25.png Graphic file (type png)
 <use Figures/case 25.png>
 Package pdftex.def Info: Figures/case 25.png  used on input line 139.
 (pdftex.def)             Requested size: 28.45274pt x 28.496pt.
-<Figures/case 11.png, id=49, 290.5254pt x 289.8027pt>
+<Figures/case 11.png, id=53, 290.5254pt x 289.8027pt>
 File: Figures/case 11.png Graphic file (type png)
 <use Figures/case 11.png>
 Package pdftex.def Info: Figures/case 11.png  used on input line 141.
 (pdftex.def)             Requested size: 28.45274pt x 28.38057pt.
-<Figures/case 26.png, id=50, 279.2031pt x 289.5618pt>
+<Figures/case 26.png, id=54, 279.2031pt x 289.5618pt>
 File: Figures/case 26.png Graphic file (type png)
 <use Figures/case 26.png>
 Package pdftex.def Info: Figures/case 26.png  used on input line 141.
 (pdftex.def)             Requested size: 28.45274pt x 29.50574pt.
-<Figures/case 12.png, id=51, 291.2481pt x 289.8027pt>
+<Figures/case 12.png, id=55, 291.2481pt x 289.8027pt>
 File: Figures/case 12.png Graphic file (type png)
 <use Figures/case 12.png>
 Package pdftex.def Info: Figures/case 12.png  used on input line 143.
 (pdftex.def)             Requested size: 28.45274pt x 28.30981pt.
-<Figures/case 27.png, id=52, 285.2256pt x 289.8027pt>
+<Figures/case 27.png, id=56, 285.2256pt x 289.8027pt>
 File: Figures/case 27.png Graphic file (type png)
 <use Figures/case 27.png>
 Package pdftex.def Info: Figures/case 27.png  used on input line 143.
 (pdftex.def)             Requested size: 28.45274pt x 28.90678pt.
-<Figures/case 13.png, id=53, 291.2481pt x 283.5393pt>
+<Figures/case 13.png, id=57, 291.2481pt x 283.5393pt>
 File: Figures/case 13.png Graphic file (type png)
 <use Figures/case 13.png>
 Package pdftex.def Info: Figures/case 13.png  used on input line 145.
 (pdftex.def)             Requested size: 28.45274pt x 27.69797pt.
-<Figures/case 28.png, id=54, 291.0072pt x 288.3573pt>
+<Figures/case 28.png, id=58, 291.0072pt x 288.3573pt>
 File: Figures/case 28.png Graphic file (type png)
 <use Figures/case 28.png>
 Package pdftex.def Info: Figures/case 28.png  used on input line 145.
 (pdftex.def)             Requested size: 28.45274pt x 28.19061pt.
-<Figures/case 14.png, id=55, 290.2845pt x 291.9708pt>
+<Figures/case 14.png, id=59, 290.2845pt x 291.9708pt>
 File: Figures/case 14.png Graphic file (type png)
 <use Figures/case 14.png>
 Package pdftex.def Info: Figures/case 14.png  used on input line 147.
 (pdftex.def)             Requested size: 28.45274pt x 28.61516pt.
-<Figures/case 29.png, id=56, 290.7663pt x 290.0436pt>
+<Figures/case 29.png, id=60, 290.7663pt x 290.0436pt>
 File: Figures/case 29.png Graphic file (type png)
 <use Figures/case 29.png>
 Package pdftex.def Info: Figures/case 29.png  used on input line 147.
 (pdftex.def)             Requested size: 28.45274pt x 28.38202pt.
-<Figures/case 15.png, id=57, 284.0211pt x 287.3937pt>
+<Figures/case 15.png, id=61, 284.0211pt x 287.3937pt>
 File: Figures/case 15.png Graphic file (type png)
 <use Figures/case 15.png>
 Package pdftex.def Info: Figures/case 15.png  used on input line 149.
 (pdftex.def)             Requested size: 28.45274pt x 28.78928pt.
-<Figures/case 30.png, id=58, 291.0072pt x 290.5254pt>
+<Figures/case 30.png, id=62, 291.0072pt x 290.5254pt>
 File: Figures/case 30.png Graphic file (type png)
 <use Figures/case 30.png>
 Package pdftex.def Info: Figures/case 30.png  used on input line 149.
@@ -524,8 +525,7 @@ Overfull \hbox (19.39781pt too wide) in paragraph at lines 118--152
  [][] 
  []
 
-[3 <./Figures/Triple Integral.png> <./Figures/Binary Vertices.png>] [4 <./Figures/case 1.png> <./Figures/case 16.png> <./Figures/case 2.png> <./Figures/case 17.png> <./Figures/case 3.png> <./Figures/case 18.png> <./Figures/case 4.png> <./Figures/case 19.png> <./Figures/case 5.png> <./Figures/case 20.png> <./Figures/case 6.png> <./Figures/case 21.png> <./Figures/case 7.png> <./Figures/case 22.png> <./Figures/case 8.png> <./Figures/case 23.png> <./Figures/case 9.png> <./Figures/case 24.png> <./Figures/case 10.png> <./Figures/case 25.png> <./Figures/case 11.png> <./Figures/case 26.png> <./Figures/case 12.png> <./Figures/case 27.png> <./Figures/case 13.png> <./Figures/case 28.png> <./Figures/case 14.png> <./Figures/case 29.png> <./Figures/case 15.png> <./Figures/case 30.png>]
-<Figures/Fenwick Tree.png, id=97, 1064.97874pt x 349.305pt>
+<Figures/Fenwick Tree.png, id=63, 1064.97874pt x 349.305pt>
 File: Figures/Fenwick Tree.png Graphic file (type png)
 <use Figures/Fenwick Tree.png>
 Package pdftex.def Info: Figures/Fenwick Tree.png  used on input line 169.
@@ -540,7 +540,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 169--171
 
  []
 
-<Figures/3D BIT.png, id=98, 1805.7864pt x 1304.9553pt>
+<Figures/3D BIT.png, id=64, 1805.7864pt x 1304.9553pt>
 File: Figures/3D BIT.png Graphic file (type png)
 <use Figures/3D BIT.png>
 Package pdftex.def Info: Figures/3D BIT.png  used on input line 177.
@@ -555,7 +555,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 177--179
 
  []
 
-[5 <./Figures/Fenwick Tree.png> <./Figures/3D BIT.png>]
+[4 <./Figures/Fenwick Tree.png> <./Figures/3D BIT.png>] [5 <./Figures/case 1.png> <./Figures/case 16.png> <./Figures/case 2.png> <./Figures/case 17.png> <./Figures/case 3.png> <./Figures/case 18.png> <./Figures/case 4.png> <./Figures/case 19.png> <./Figures/case 5.png> <./Figures/case 20.png> <./Figures/case 6.png> <./Figures/case 21.png> <./Figures/case 7.png> <./Figures/case 22.png> <./Figures/case 8.png> <./Figures/case 23.png> <./Figures/case 9.png> <./Figures/case 24.png> <./Figures/case 10.png> <./Figures/case 25.png> <./Figures/case 11.png> <./Figures/case 26.png> <./Figures/case 12.png> <./Figures/case 27.png> <./Figures/case 13.png> <./Figures/case 28.png> <./Figures/case 14.png> <./Figures/case 29.png> <./Figures/case 15.png> <./Figures/case 30.png>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 196.
@@ -564,34 +564,49 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 228.
 
+<Figures/Experiment.png, id=103, 1609.212pt x 556.479pt>
+File: Figures/Experiment.png Graphic file (type png)
+<use Figures/Experiment.png>
+Package pdftex.def Info: Figures/Experiment.png  used on input line 256.
+(pdftex.def)             Requested size: 225.21626pt x 77.88104pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
+Underfull \hbox (badness 10000) in paragraph at lines 256--258
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
 \OT1/cmr/m/n/10.95 team/Volume-Computation-of-3D-Reconstructed-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
 \OT1/cmr/m/n/10.95 Models-from-Volumetric-Data-using-Binary-
  []
 
-[6] [7] (main.bbl) [8] (main.aux)
+[6 <./Figures/Experiment.png>] [7] (main.bbl) [8] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3076 strings out of 474457
- 49393 string characters out of 5754949
- 1954190 words of memory out of 5000000
- 25381 multiletter control sequences out of 15000+600000
- 565867 words of font info for 63 fonts, out of 8000000 for 9000
+ 3081 strings out of 474457
+ 49564 string characters out of 5754949
+ 1955190 words of memory out of 5000000
+ 25386 multiletter control sequences out of 15000+600000
+ 565413 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,12n,65p,1527b,406s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (8 pages, 2523778 bytes).
+ 57i,12n,65p,1762b,406s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (8 pages, 3160189 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
+ 173 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
 

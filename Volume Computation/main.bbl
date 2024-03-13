@@ -21,6 +21,11 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{loren}
+W.~E. Lorensen and H.~E. Cline, ``Marching cubes: A high resolution 3d surface
+  construction algorithm,'' in \emph{Seminal graphics: pioneering efforts that
+  shaped the field}, 1998, pp. 347--353.
+
 \bibitem{intrinsic}
 K.~Schladitz, J.~Ohser, and W.~Nagel, ``Measuring intrinsic volumes in digital
   3d images,'' in \emph{Discrete Geometry for Computer Imagery: 13th
@@ -28,25 +33,22 @@ K.~Schladitz, J.~Ohser, and W.~Nagel, ``Measuring intrinsic volumes in digital
   Proceedings 13}.\hskip 1em plus 0.5em minus 0.4em\relax Springer, 2006, pp.
   247--258.
 
-\bibitem{hoffman}
-E.~A. Hoffman and E.~L. Ritman, ``Shape and dimensions of cardiac chambers:
-  importance of ct section thickness and orientation.'' \emph{Radiology}, vol.
-  155, no.~3, pp. 739--744, 1985.
-
 \bibitem{vascular}
 N.~Bao and L.~Hy, ``Integration of deep learning into automatic cardiovascular
   volumetric dissection and reconstruction in 3d simulated space for medical
-  practice,'' 2024.
-
-\bibitem{loren}
-W.~E. Lorensen and H.~E. Cline, ``Marching cubes: A high resolution 3d surface
-  construction algorithm,'' in \emph{Seminal graphics: pioneering efforts that
-  shaped the field}, 1998, pp. 347--353.
+  practice,'' \emph{VISEF-ISEF}, 2024.
 
 \bibitem{lewiner}
 T.~Lewiner, H.~Lopes, A.~W. Vieira, and G.~Tavares, ``Efficient implementation
   of marching cubes' cases with topological guarantees,'' \emph{Journal of
   graphics tools}, vol.~8, no.~2, pp. 1--15, 2003.
+
+\bibitem{limb}
+G.~Lu, G.~N. DeSouza, J.~Armer, B.~Anderson, and C.-R. Shyu, ``A system for
+  limb-volume measurement using 3d models from an infrared depth sensor,'' in
+  \emph{2013 IEEE Symposium on Computational Intelligence in Healthcare and
+  e-health (CICARE)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2013, pp.
+  64--69.
 
 \bibitem{fenwick}
 P.~M. Fenwick, ``A new data structure for cumulative frequency tables,''
