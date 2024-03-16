@@ -1,0 +1,55 @@
+\begin{tikzpicture}[scale=0.9]
+\begin{axis}[
+    xlabel={Models},
+    ylabel={Time/s},
+    bar width=0.5cm,
+    symbolic x coords={U-Net,U-Net Att,ResUNet,VAS}, 
+    xtick={U-Net,U-Net Att,ResUNet,VAS},
+    ymajorgrids,
+    ]
+    \addplot[ybar, fill=teal] coordinates {
+    (U-Net, 16.8)  
+    };
+    \addplot[ybar, fill=olive] coordinates {
+    (U-Net Att, 19.8)
+    };
+    \addplot[ybar, fill=brown] coordinates {
+    (ResUNet, 20)
+    };
+    \addplot[ybar, fill=darkgray] coordinates {
+    (VAS, 46) 
+    };
+\end{axis}
+\end{tikzpicture}
+
+
+name: U-Net
+    median: 0.999987
+    upper whisker: 1.0
+    lower whisker: 0.6204703875
+    upper quartile: 1
+    lower quartile: 0.832546
+    
+
+    name: U-Net Attention
+    median: 0.967956
+    upper whisker: 1.0
+    lower whisker: 0.7200176891666668
+    upper quartile: 1
+    lower quartile: 0.8550402
+    
+
+    name: ResUNet
+    median: 1
+    upper whisker: 1.0
+    lower whisker: 0.5719854583333334
+    upper quartile: 1
+    lower quartile: 0.831131
+    
+
+    name: VAS
+    median: 1
+    upper whisker: 1.0
+    lower whisker: 0.88749311
+    upper quartile: 1
+    lower quartile: 0.9743816

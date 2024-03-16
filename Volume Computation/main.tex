@@ -13,7 +13,7 @@
 }
 
 
-\title{Volume Computation of 3D Reconstructed Models from Volumetric Data using Binary Indexed Tree}
+\title{Volume Computation of 3D Reconstructed Objects From Volumetric Data Using Binary Indexed Tree}
 \author{Nguyen Le Quoc Bao \& Le Tuan Hy}
 \date{8 March 2024}
 
@@ -26,7 +26,7 @@
 \setlength{\leftskip}{3.5cm} 
 \setlength{\rightskip}{3.5cm}
 \begin{abstract}
-    In the burgeoning field of medical imaging, precise computation of 3D volume holds a significant importance for subsequent qualitative analysis of 3D reconstructed objects. Combining multivariable calculus, marching cubes algorithm, and binary indexed tree data structure, we develop a algorithm for efficient computation of intrinsic volume of any volumetric data retrieved from computed tomography (CT) or magnetic resonance (MR). We proposed the 30 configurations of volume values based on polygonal mesh generation method. Our algorithm processes the data in scan-line order to initialize the Fenwick tree simultaneously with the reconstruction algorithm, ensuring faster volume query time following users edition such as slicing or transforming object mesh. We tested the algorithm's accuracy on simple 3D objects (e.g.sphere) to complicated structures (11 cardiac components). The result deviated slightly from labelled volumn and there is still space for further improvement.
+    In the burgeoning field of medical imaging, precise computation of 3D volume holds a significant importance for subsequent qualitative analysis of 3D reconstructed objects. Combining multivariable calculus, marching cubes algorithm, and binary indexed tree data structure, we develop a algorithm for efficient computation of intrinsic volume of any volumetric data retrieved from computed tomography (CT) or magnetic resonance (MR). We proposed the 30 configurations of volume values based on polygonal mesh generation method. Our algorithm processes the data in scan-line order to initialize the Fenwick tree simultaneously with the reconstruction algorithm, ensuring faster volume query time following users edition such as slicing or transforming object mesh. We tested the algorithm's accuracy on simple 3D objects (e.g.sphere) to complicated structures (11 cardiac components). The result deviated slightly from labelled volume and there is still space for further improvement.
 \end{abstract}
 \end{minipage}
 \end{center}
@@ -45,10 +45,10 @@ Our software system starts from the second step to the last one. The post proces
 - Post processing 
 
 \section{Literary review}
-The Marching Cubes algorithm, proposed by Lorensen int 1987, is commonly used for 3D mesh reconstruction from CT scans. However, it has limitations due to a small lookup table. To address this, Lewiner \cite{lewiner}proposed an improved version with an extended lookup table, resolving the “cracks” issue. This development requires efficient automatic post analysis, especially measuring important parameters such as volume, surface area, curvature. One approach \cite{limb} involves measuring limb volumes using 3D models from an infrared depth sensor (as presented by Limb). However, this method does not leverage advanced computed imaging (CT, MR) and may be affected by environmental factors. Intrinsic volume measurement techniques directly from digital 3D images have been explored \cite{intrinsic}, but their computational complexity remains a challenge. 
+The Marching Cubes algorithm, proposed by Lorensen in 1987, is commonly used for 3D mesh reconstruction from CT scans. However, it has limitations due to a small lookup table. To address this, Lewiner \cite{lewiner} proposed an improved version with an extended lookup table, resolving the “cracks” issue. This development requires efficient automatic post analysis, especially measuring important parameters such as volume, surface area, curvature. \cite{limb} presents a system to measure limb volumes using 3D models from an infrared depth sensor. However, this method does not leverage advanced computed imaging (CT, MR) and may be affected by environmental factors. Intrinsic volume measurement techniques directly from digital 3D images have been explored \cite{intrinsic}, but their computational complexity remains a challenge. 
 
 \section{Methodology}
-Since our main application is in medical imaging, especially cardiac volumetric data, we only focus practical experiment and analysis this specific field. 
+Since our main application is in medical imaging, especially cardiac volumetric data, we only focus practical experiment and analysis in this specific field. 
 
 \subsection{Integral of surface functions}
 
@@ -82,7 +82,7 @@ $$ \\
 \includegraphics[width=0.45\textwidth]{Figures/Exclusion.png}
 \textbf{Figure 2:} Calculating partial aortic arch volume with double integral \\
 
-The implementation of this approach computed the volume of tube structures accurately (given the $(x,y,z)$ point set). However, we have to find a midsection to divide the object into two parts. Additionally, current software systems \cite{vascular} allows radiologists to perform surgical operations (e.g. slicing) or modifies the segmentation result leading to changes in the 3D reconstructed polygonal mesh, so algorithm must reprocess again. If denoting $Q$ as the times of slicing or updating operation is performed, the time complexity will be $O (Q \times (M \times N + S))$, where S represents the complexity of finding midsection path. This issue can be optimized with triple integral combined with binary indexed tree.
+Given a list of $(x,y,z)$ vertices, the implementation of this approach computed the volume of tube structures accurately . However, we have to find a midsection to divide the object into two parts. Additionally, current software systems \cite{vascular} allows radiologists to perform surgical operations (e.g. slicing) or modifies the segmentation result leading to changes in the 3D reconstructed polygonal mesh, so algorithm must reprocess again. If denoting $Q$ as the times of slicing or updating operation is performed, the time complexity will be $O (Q \times (M \times N + S))$, where S represents the complexity of finding midsection path. This issue can be optimized with triple integral combined with binary indexed tree.
 
 \subsection{Triple integral}
 \includegraphics[width=0.45\textwidth]{Figures/Triple Integral.png}
@@ -93,16 +93,16 @@ $$
 V = \lim_{n \rightarrow + \infty} \Sigma_{i=1}^{n} \Delta z_i \Delta y_i \Delta x_i
 $$
 
-The above formula shows that each cube is processed in three loops of three dimension $x,y,z$, which is comprehensively compatible with the marching algorithm. Therefore we integrate the approximation idea of triple integral into marching cubes algorithm and store the calculated data into 3D binary indexed tree.
+The above formula shows that each cube is processed in three dimensional loops over $Ox, Oy, Oz$, which is comprehensively compatible with the marching algorithm. Therefore we integrate the approximation idea of triple integral into marching cubes algorithm and store the calculated data into 3D binary indexed tree.
 
 \subsection{Volume configurations in Marching Cubes}
 
-Marching cubes uses a divide-and-conquer approach to locate the surface in a logical cube created from eight pixels; four each from two adjacent slices \cite{loren}. In three dimensional space, the relationship between a cube and the 3D model falls into three cases: the cube is totally inside the model, partly intersected by the surface model, or totally located outside the model. The surface can intersect the cube in $2^8=256$ cases since a cubes has $8$ vertices in total (this can be proved by generation method). \\
+Marching cubes uses a divide-and-conquer approach to locate the surface in a logical cube created from eight pixels; four each from two adjacent slices \cite{loren}. In three dimensional space, the relationship between a cube and the 3D model is classified into three cases: the cube is totally inside the object, partly intersected by the surface mesh, or totally located outside the object. The surface can intersect the cube in $2^8=256$ cases since a cubes has $8$ vertices in total (this can be proved by generation method). \\
 
 \includegraphics[width=0.46\textwidth]{Figures/Binary Vertices.png}
 \textbf{Figure 4:} Vertex indexing and binary representation  \\
 
-However, \cite{loren} reduced the problem from 256 cases to 14 patterns by utilizing symmetrical property, rotational symmetry. From original 3D array, the algorithm create the boolean 3D array with the same size speculating that a vertex is false if locates inside the model and vice versa. Therefore, the volume of the model within a cube is limited from the mesh generated to all False vertices. Although the topology triangulated mesh is unchanged when performing rotation or symmetrical operations \cite{loren}, the volume is changed. Specifically, the volume of case $j$ is equal to $1-V_i$ with $j$ is the reversed case of $i$. Finally, we have up to $28$ cases of volume plus $2$ cases (all vertices are either False or True), which totally is $30$ cases. The specified volume of each $30$ cases is presented in figure $4$.
+However, \cite{loren} reduced the problem from 256 cases to 14 patterns by utilizing symmetrical property, rotational symmetry. From original 3D array, the algorithm create the boolean 3D array with the same size speculating that a vertex is false if locates inside the model and vice versa. Therefore, the volume of the model within a cube is limited from the mesh generated to all False vertices. Although the topologically triangulated mesh is unchanged when performing rotation or symmetrical operations, the volume is changed. Specifically, the volume of case $j$ is equal to $1-V_i$ with $j$ is the reversed case of $i$. Finally, we have up to $28$ cases of volume plus $2$ cases (all vertices are either False or True), which totally is $30$ cases. The specified volume of each $30$ cases is presented in figure $4$.
 
 The volume is each case easily calculated by dividing the 3D shape into simple shapes such as tetrahedron, prism,... The formulas are:
 $$ V_{\text{tetrahedron}} = \frac{1}{3} h S_{\text{base}} $$

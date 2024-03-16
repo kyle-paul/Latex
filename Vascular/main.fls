@@ -1,0 +1,365 @@
+PWD d:\Documents\GitHub\Latex\Vascular
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Documents\GitHub\Latex\Vascular\main.tex
+OUTPUT main.log
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\tools\multicol.sty
+INPUT D:\Programs\MiKTeX\tex\latex\tools\multicol.sty
+INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT D:\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT D:\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT D:\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT D:\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT D:\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgfplots\pgfplots.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgfplots\pgfplots.sty
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT D:\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT D:\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT D:\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplotscore.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\sys\pgfplotssysgeneric.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\libs\pgfplotslibrary.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotsutil.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructure.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructureext.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsarray.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsmatrix.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\numtable\pgfplotstableshared.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsdeque.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotsbinary.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotsbinary.data.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotsutil.verb.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\libs\pgflibrarypgfplots.surfshading.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotscolormap.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotscolor.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplotsstackedplots.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplotsplothandlers.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplotsmeshplothandler.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplotsmeshplotimage.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.scaling.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplotscoordprocessing.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.errorbars.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.markers.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplotsticks.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.paths.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduledecorations.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.contourlua.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.contourlua.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+INPUT D:\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
+INPUT D:\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT D:\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.statistics.code.tex
+INPUT D:\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.statistics.code.tex
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT D:\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1728.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1728.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0900.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx0900.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1440.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1000.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
+OUTPUT main.pdf
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\figures\Model Architecture.png
+INPUT .\figures\Model Architecture.png
+INPUT .\figures\Model Architecture.png
+INPUT .\figures\Model Architecture.png
+INPUT .\figures\Model Architecture.png
+INPUT .\figures\Model Architecture.png
+INPUT .\figures\Model Architecture.png
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0700.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0500.tfm
+INPUT .\figures\PReLU.png
+INPUT .\figures\PReLU.png
+INPUT .\figures\PReLU.png
+INPUT .\figures\PReLU.png
+INPUT .\figures\PReLU.png
+INPUT .\figures\PReLU.png
+INPUT .\figures\PReLU.png
+INPUT .\figures\3d DIS.png
+INPUT .\figures\3d DIS.png
+INPUT .\figures\3d DIS.png
+INPUT .\figures\3d DIS.png
+INPUT .\figures\3d DIS.png
+INPUT .\figures\3d DIS.png
+INPUT .\figures\3d DIS.png
+INPUT .\figures\Binary Vertices.png
+INPUT .\figures\Binary Vertices.png
+INPUT .\figures\Binary Vertices.png
+INPUT .\figures\Binary Vertices.png
+INPUT .\figures\Binary Vertices.png
+INPUT .\figures\Binary Vertices.png
+INPUT .\figures\Binary Vertices.png
+INPUT .\figures\Integral Surface Function.png
+INPUT .\figures\Integral Surface Function.png
+INPUT .\figures\Integral Surface Function.png
+INPUT .\figures\Integral Surface Function.png
+INPUT .\figures\Integral Surface Function.png
+INPUT .\figures\Integral Surface Function.png
+INPUT .\figures\Integral Surface Function.png
+INPUT .\figures\3D BIT.png
+INPUT .\figures\3D BIT.png
+INPUT .\figures\3D BIT.png
+INPUT .\figures\3D BIT.png
+INPUT .\figures\3D BIT.png
+INPUT .\figures\3D BIT.png
+INPUT .\figures\3D BIT.png
+INPUT .\figures\sphere.png
+INPUT .\figures\sphere.png
+INPUT .\figures\sphere.png
+INPUT .\figures\sphere.png
+INPUT .\figures\sphere.png
+INPUT .\figures\sphere.png
+INPUT .\figures\sphere.png
+INPUT .\figures\strip.png
+INPUT .\figures\strip.png
+INPUT .\figures\strip.png
+INPUT .\figures\strip.png
+INPUT .\figures\strip.png
+INPUT .\figures\strip.png
+INPUT .\figures\strip.png
+INPUT .\figures\plane.png
+INPUT .\figures\plane.png
+INPUT .\figures\plane.png
+INPUT .\figures\plane.png
+INPUT .\figures\plane.png
+INPUT .\figures\plane.png
+INPUT .\figures\plane.png
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT main.bbl
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1000.tfm
+INPUT main.aux
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0900.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0900.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
+INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
